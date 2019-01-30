@@ -1,5 +1,6 @@
 # "I only upload high quality rips."
 ## - SiIvaGunner
+
 This is some kind of database I'm building for a command for my bot, Hitomi Manaka#4825, which will include a list of all SiIvaGunner albums and it will also allow you to see their descriptions and mega/bandcamp/drive links and everything.
 
 Sounds cool, right? Thanks hehe
