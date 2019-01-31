@@ -69,17 +69,15 @@
     },
     {
         "name": "`05.`KORIBALL",
-        "cover": "cover link",
-        "description": "[missing description]",
+        "cover": "https://f4.bcbits.com/img/a0612586313_10.jpg",
+        "description": "[No description.]",
         "downloads": {
-            "bandcamp": "link",
+            "bandcamp": "https://giivasunner.bandcamp.com/album/koriball",
             "mega": [
-                "[MP3](link here)",
-                "[FLAC](link here)"
+                "None."
             ],
             "drive": [
-                "[MP3](link here)",
-                "[FLAC](link here)"
+                "None."
             ]
         },
         "songs": []
