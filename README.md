@@ -11,4 +11,6 @@ What? You want to see the bot? Sure! Here's a link: https://discordapp.com/oauth
 
 Wait, you actually didn't asked for it? Aw, man...
 
+Anyways, if you want to contribute, please follow the format followed in the albums that are already made. If a MP3/FLAC MEGA or Drive link is missing or there are more formats avaiable (like OGG), don't doubt on removing/adding it to the arrays for the album download links. If there is more than one link for the same file format, like in the album nº03, add these too.
+
 Please read the repo description.
