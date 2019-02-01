@@ -881,18 +881,23 @@
     },
     {
         "name": "`53.`STRINGS OF FATE ~ SiIvaGunner: King for a Day Tournament Original Soundtrack",
-        "cover": "cover link",
+        "cover": "https://f4.bcbits.com/img/a1877044725_10.jpg",
         "description": "[missing description]",
         "downloads": {
-            "bandcamp": "link",
+            "bandcamp": "https://gilvasunner.bandcamp.com/album/strings-of-fate-siivagunner-king-for-a-day-tournament-original-soundtrack",
             "mega": [
-                "[MP3](link here)",
-                "[FLAC](link here)"
+                "[MP3](https://mega.nz/#!5qQySKbA!dRduIKKxt5gUBC232hwMSqIvEeWRJa4Dq_WPGZk-HyI)",
+                "[FLAC](https://mega.nz/#!lyJ2gAjY!N_rINS6WDKr04DBivTb89zOPxhW9r093Rf6HJxH9pMM)"
             ],
             "drive": [
-                "[MP3](link here)",
-                "[FLAC](link here)"
+                "[MP3](https://drive.google.com/open?id=1y-a3aPUyK0FbFiwrnS7UkQY-ktkyP9k8)",
+                "[FLAC](https://drive.google.com/open?id=1aypPoS780iVMu0lb6bddgUVHKgYcijJy)"
             ]
+	    "other": [
+		"[Website](https://highquality.rip/kfadost/)",
+		"[Bonus art folder](https://drive.google.com/open?id=1t1RUE3AKHdOkfIze7mbQRuANQT5sv3x2),
+		"[Credits minigame](https://drive.google.com/file/d/1ccmCvjTNH1nDrFKmcOMg56nVNEDpBPdc)"
+		]
         },
         "songs": []
     },
