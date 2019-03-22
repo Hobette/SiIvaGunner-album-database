@@ -8,5 +8,5 @@ Sounds cool, right? Thanks hehe
 You're free to contribute too, just follow the format that's in the other albums and done.
 
 # todo
-[ ]Add some property for low quality albums (like the volume 5)
-[ ]Add announcement video link
+- [ ]Add some property for low quality albums (like the volume 5)
+- [ ]Add announcement video link
