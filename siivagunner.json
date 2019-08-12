@@ -154,7 +154,7 @@
         "cover": "cover link",
         "description": "[missing description]",
         "downloads": {
-            "bandcamp": "link",
+            "bandcamp": "link here",
             "mega": [
                 "[MP3](link here)",
                 "[FLAC](link here)"
@@ -168,17 +168,17 @@
     },
     {
         "name": "`11.`GilvaSunner's Highest Quality Video Game Rips: Volume FOUR HOURS!",
-        "cover": "cover link",
+        "cover": "https://f4.bcbits.com/img/a1461676012_16.jpg",
         "description": "[missing description]",
         "downloads": {
-            "bandcamp": "link",
+            "bandcamp": "https://gilvasunner.bandcamp.com/album/gilvasunners-highest-quality-video-game-rips-volume-four-hours",
             "mega": [
-                "[MP3](link here)",
-                "[FLAC](link here)"
+                "[MP3](https://mega.nz/#!IYFlSCab!RAveJU-_N3lio7baCRU-JcBUK6ML0uBb5dMk4r49hVQ)",
+                "[FLAC](https://mega.nz/#!1VkQAJhb!MEyDUDCEd0Omi8Q588JeDPtc26XbiWq1WeIC9tOX_Zs)"
             ],
             "drive": [
-                "[MP3](link here)",
-                "[FLAC](link here)"
+                "[MP3](https://drive.google.com/file/d/0B2X3ttBRrwHXTHJTb0s4QmZ1ZjQ/view)",
+                "[FLAC](https://drive.google.com/file/d/0B2X3ttBRrwHXaTg0dkZMQVV1ZGM/view)"
             ]
         },
         "songs": []
@@ -186,16 +186,18 @@
     {
         "name": "`12.`GilvaSunner's Highest Quality Video Game Rips Volume 5",
         "cover": "cover link",
-        "description": "[missing description]",
+        "description": "[To celebrate receiving 50,000 subscribers on this account, I decided to release Volume 5 of my highest quality rips! Like Phantom Rips, this album is a very special one, so I will not upload it to Bandcamp.]",
         "downloads": {
-            "bandcamp": "link",
+            "bandcamp": [
+                "None."
+            ]
             "mega": [
-                "[MP3](link here)",
-                "[FLAC](link here)"
+                "[MP3](https://mega.nz/#!LNFgyAoT!rjte9IyQ-YqC02jb9URB1TEokB6czN8uxr5wO33Da2M)",
+                "[FLAC](https://mega.nz/#!rZkRBZTQ!g2e_JbioYdRDecuwg5AoSWbcFV-kHdfpBITGCh-PJgI)"
             ],
             "drive": [
-                "[MP3](link here)",
-                "[FLAC](link here)"
+                "[MP3](https://drive.google.com/file/d/1wWjdQERyybjmmINMv8AtbbMZTgZIdY62/view)",
+                "[FLAC](https://drive.google.com/file/d/1FsBeFArGIE-pbteaD18HwMWE_hBrgjkz/view)"
             ]
         },
         "songs": []
