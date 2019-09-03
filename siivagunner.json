@@ -948,5 +948,20 @@
 	    ]
 	},
 	"songs": []
-     }
+     },
+     {
+        "name": "`57.`E3 Press Kit",
+        "cover": "https://f4.bcbits.com/img/a3909746129_10.jpg",
+        "description": "Hope you like this EPIC album leak!",
+        "downloads": {
+            "bandcamp": "https://gilvasunner.bandcamp.com/album/e3-2019-press-kit",
+            "mega": [
+                "(coming soon)"
+            ],
+            "drive": [
+                "(coming soon)"
+            ]
+        },
+        "songs": []
+    },
 ]
